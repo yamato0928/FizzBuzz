@@ -13,7 +13,7 @@ public class FizzBuzz {
 				if ((i%3)==0) {
 					System.out.println("Fizz");
 				}
-				//5で
+				//5で割り切れる
 				else if ((i%5)==0) {
 					System.out.println("Buzz");
 				}
